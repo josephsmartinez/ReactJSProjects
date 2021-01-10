@@ -1,13 +1,14 @@
 # ReactJSProjects
 
-Learning repo for simple projects
+Learning repo for simple React projects
 
 ## Notes
 
 - `npx create-react-app .`
-- `rce -TAB` to generate componets
-- `imrc` import React / Compenent
-- `cc` class compenent
+- `rce -TAB` to generate component
+- `imrc` import React / component
+- `cc` class component
+- `sfc` functional component
 
 ## Stack Types
 
@@ -56,6 +57,7 @@ Introduction: Build a Full-Stack React Application:
 
 - <https://picsum.photos/>
 - <https://jsonplaceholder.typicode.com/>
+- <https://reactjs.org/docs/typechecking-with-proptypes.html>
 
 ### NOTES
 
